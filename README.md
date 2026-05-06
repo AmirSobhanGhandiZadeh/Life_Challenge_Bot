@@ -28,15 +28,18 @@ Python
 python-telegram-bot
 SQLite (for now)
 APScheduler (planned for reminders)
+
+
 📂 Project Structure
+
 life_challenge_bot/
-│
-├── bot.py
-├── config.py
-├── database/
-├── handlers/
-├── services/
-├── keyboards/
+  │
+  ├── bot.py
+  ├── config.py
+  ├── database/
+  ├── handlers/
+  ├── services/
+  ├── keyboards/
 🚀 Getting Started
 1. Clone the repo
 git clone https://github.com/AmirSobhanGhandiZadeh/Life_Challenge_Bot
