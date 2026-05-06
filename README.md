@@ -39,7 +39,7 @@ life_challenge_bot/
 ├── keyboards/
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/life-challenge-bot.git
+git clone https://github.com/AmirSobhanGhandiZadeh/Life_Challenge_Bot
 cd life-challenge-bot
 2. Install dependencies
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 Edit config.py:
 
-BOT_TOKEN = "YOUR_TOKEN"
+BOT_TOKEN = ""
 4. Run the bot
 python bot.py
 📅 Current Progress
